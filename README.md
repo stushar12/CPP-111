@@ -1,5 +1,5 @@
 # CPP-111
-Detect cycle in undirected graph
+Detect cycle in undirected graph using DFS
 
 
 
